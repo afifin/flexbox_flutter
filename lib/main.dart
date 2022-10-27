@@ -48,7 +48,7 @@ class HomePage extends StatelessWidget {
                         child: Container(
                           height: 20,
                           width: 20,
-                          color: Colors.blue,
+                          color: Colors.yellow,
                         ),
                       ),
                       Padding(
